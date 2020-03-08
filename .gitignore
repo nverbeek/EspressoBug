@@ -1,1 +1,6 @@
 captures
+.gradle
+.idea/codeStyles
+.idea
+*.iml
+.DS_Store
